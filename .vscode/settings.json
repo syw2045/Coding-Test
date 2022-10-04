@@ -4,6 +4,7 @@
     "cmath": "cpp",
     "algorithm": "cpp",
     "queue": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "utility": "cpp"
   }
 }
