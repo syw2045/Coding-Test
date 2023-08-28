@@ -6,6 +6,8 @@
     "queue": "cpp",
     "stack": "cpp",
     "utility": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "deque": "cpp",
+    "string": "cpp"
   }
 }
